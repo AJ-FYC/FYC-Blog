@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>FYC Blog</title>
+      <link>https://AJ-FYC.github.io/FYC-Blog</link>
+      <description>Last 10 notes on FYC Blog</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>gnol-post</title>
+    <link>https://AJ-FYC.github.io/FYC-Blog/gnol-post</link>
+    <guid>https://AJ-FYC.github.io/FYC-Blog/gnol-post</guid>
+    <description><![CDATA[ The Sixth Sense Nobody Warned You About A field guide to feeling weirdly calibrated in 2026. ]]></description>
+    <pubDate>Sat, 14 Feb 2026 16:38:15 GMT</pubDate>
+  </item><item>
+    <title>Home</title>
+    <link>https://AJ-FYC.github.io/FYC-Blog/</link>
+    <guid>https://AJ-FYC.github.io/FYC-Blog/</guid>
+    <description><![CDATA[ Welcome This is my Quartz site. Latest Post gnol-post . ]]></description>
+    <pubDate>Sat, 14 Feb 2026 16:38:15 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
